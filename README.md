@@ -5,3 +5,4 @@ This is the repository where I will continuosly upload my C++ solution to the qu
 2nd May,2023=6 easy questions.<br>
 3rd May,2023=9 easy and 1 medium questions.<br>
 4th May,2023=8 easy and 2 medium questions.<br>
+5th May,2023=2 easy and 1 medium questions.<br>
